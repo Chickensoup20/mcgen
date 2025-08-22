@@ -1,0 +1,44 @@
+{
+    "animals": [
+        {
+            "name": "African Elephant",
+            "scientific_name": "Loxodonta africana",
+            "habitat": "Savannah, Grasslands",
+            "diet": "Herbivore",
+            "lifespan_years": 60,
+            "conservation_status": "Vulnerable"
+        },
+        {
+            "name": "Bald Eagle",
+            "scientific_name": "Haliaeetus leucocephalus",
+            "habitat": "Forests, Near Water",
+            "diet": "Carnivore",
+            "lifespan_years": 20,
+            "conservation_status": "Least Concern"
+        },
+        {
+            "name": "Giant Panda",
+            "scientific_name": "Ailuropoda melanoleuca",
+            "habitat": "Temperate Broadleaf Forest",
+            "diet": "Herbivore",
+            "lifespan_years": 20,
+            "conservation_status": "Vulnerable"
+        },
+        {
+            "name": "Emperor Penguin",
+            "scientific_name": "Aptenodytes forsteri",
+            "habitat": "Antarctic",
+            "diet": "Carnivore",
+            "lifespan_years": 20,
+            "conservation_status": "Near Threatened"
+        },
+        {
+            "name": "Red Fox",
+            "scientific_name": "Vulpes vulpes",
+            "habitat": "Forests, Grasslands, Urban Areas",
+            "diet": "Omnivore",
+            "lifespan_years": 5,
+            "conservation_status": "Least Concern"
+        }
+    ]
+}
